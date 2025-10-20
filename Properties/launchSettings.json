@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppMulti": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
